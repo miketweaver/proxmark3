@@ -114,7 +114,7 @@ Further questions about Mac & Homebrew,  contact @Chrisfu  (https://github.com/c
 
 2. Tap this repo: `brew tap RfidResearchGroup/proxmark3`
 
-3. Install Proxmark3: `brew install proxmark3` for stable release or `brew install --HEAD proxmark3` for latest non-stable from GitHub.
+3. Install Proxmark3: `brew install --HEAD proxmark3` for latest non-stable from GitHub.
 
 Upgrading HomeBrew tap formula
 -----------------------------
